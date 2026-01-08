@@ -101,5 +101,6 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-alias tldr="t"
+# alias ohmyzsh="mate ~/.oh-my-zsh"a
+alias t='tldr'
+alias v='vim'
